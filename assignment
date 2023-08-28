@@ -11,3 +11,10 @@ class Car:
 my_car = Car('red', 'Toyota', 'Corolla')
 MAX_SIZE = 100 #global variable
 PI_VALUE = 3.14159
+#Reverse a String using slicing 
+letters = "ABCDEF"
+print(letters[::-1])
+#Explore dir() & help()
+import math
+print(dir(math))
+help(math)
