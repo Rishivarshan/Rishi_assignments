@@ -1,0 +1,6 @@
+''' mod.py '''
+
+def mod():
+	print("This is my module")
+
+location = "Chennai"
